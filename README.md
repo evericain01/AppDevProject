@@ -1,4 +1,4 @@
-# AppDevProject
+# DesktopDevProject
 
 
 Students: Antoine Boutin, Herbert Domingo, Ebrahim Vericain
